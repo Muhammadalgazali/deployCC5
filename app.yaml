@@ -40,4 +40,4 @@ handlers:
   upload: script.js
 
 - url: /.*
-  script: index.html
+  script: index.php
