@@ -26,24 +26,23 @@
           <strong>My Personal Information</strong>
         </h2>
       </div>
-
       <nav class="nav-list">
         <ul>
           <li><p>Social Media :</p></li>
           <li><a href="https://www.instagram.com/all.ghazaliiii/">
-            <img src="instagram.png" alt="Instagram"></a>
+            <img src="https://storage.googleapis.com/golden-cove-382000.appspot.com/instagram.png" alt="Instagram"></a>
           </li>
           <li><a href="https://www.linkedin.com/in/muhammad-algazali-9b1476253/">
-            <img src="linkedin.png" alt="Linkedlin"></a>
+            <img src="https://storage.googleapis.com/golden-cove-382000.appspot.com/linkedin.png" alt="Linkedlin"></a>
           </li>
           <li><a href="https://www.facebook.com/muhammadalgazali019/">
-            <img src="facebook.png" alt="Facebook"></a>
+            <img src="https://storage.googleapis.com/golden-cove-382000.appspot.com/facebook.png" alt="Facebook"></a>
           </li>
           <li><a href="https://www.cloudskillsboost.google/public_profiles/3d819acf-41c9-456d-851f-60bc74876051">
-            <img src="cloud.png" alt="SkillBoost"></a>
+            <img src="https://storage.googleapis.com/golden-cove-382000.appspot.com/cloud.png" alt="SkillBoost"></a>
           </li>
           <li><a href="https://github.com/Muhammadalgazali">
-            <img src="github.png" alt="Github"></a>
+            <img src="https://storage.googleapis.com/golden-cove-382000.appspot.com/github.png" alt="Github"></a>
           </li>
         </ul>
         </ul>
@@ -66,7 +65,7 @@
         <!-- fotoku -->
         <div class="content-image">
           <span align="center">
-            <img src="foto-profil.jpg" alt="Cyber Security" />
+            <img src="https://storage.googleapis.com/golden-cove-382000.appspot.com/foto-profil.jpg" alt="Cyber Security" />
           </span>
         </div>
       </div>
