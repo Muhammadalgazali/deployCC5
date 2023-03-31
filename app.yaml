@@ -1,0 +1,43 @@
+runtime: php55
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /app.css
+  static_files: app.css
+  upload: app.css
+
+- url: /cloud.png
+  static_files: cloud.png
+  upload: cloud.png
+
+- url: /facebook.png
+  static_files: facebook.png
+  upload: facebook.png
+
+- url: /foto-profil.jpg
+  static_files: foto-profil.jpg
+  upload: foto-profil.jpg
+
+- url: /github.png
+  static_files: github.png
+  upload: github.png
+
+- url: /index.html
+  static_files: index.html
+  upload: index.html
+
+- url: /instagram.png
+  static_files: instagram.png
+  upload: instagram.png
+
+- url: /linkedin.png
+  static_files: linkedin.png
+  upload: linkedin.png
+
+- url: /script.js
+  static_files: script.js
+  upload: script.js
+
+- url: /.*
+  script: index.html
